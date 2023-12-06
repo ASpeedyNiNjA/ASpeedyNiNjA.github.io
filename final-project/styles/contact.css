@@ -119,6 +119,7 @@ i {
 /* Anchor Specific Styling */
 a:link {
 	text-decoration: none;
+	color: black;
 }
 a:hover {
 	background-color: tomato;
